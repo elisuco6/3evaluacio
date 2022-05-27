@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class repaso2 {
+public class ejercicio2 {
     public static void main(String[] args) {
     leerFichero("C:\\Users\\elisa\\Desktop\\2021_Accidentalidad.csv");
     }
